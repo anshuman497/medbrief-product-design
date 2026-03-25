@@ -1,4 +1,4 @@
-# Edge Cases – MedBrief
+# Edge Cases – MedBrief(along with solutions)
 
 ## 1. Authentication
 
